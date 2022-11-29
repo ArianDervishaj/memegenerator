@@ -1,6 +1,6 @@
 import React from "react";
 
-function Header(){
+function Meme(){
     return (
         <header className="header">
             <h3 className="header--title">Meme Generator</h3>
@@ -9,4 +9,4 @@ function Header(){
     )
 }
 
-export default Header;
+export default Meme;

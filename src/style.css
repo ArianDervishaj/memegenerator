@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+    font-family: 'Inter', sans-serif;
+    letter-spacing: 0.1rem;
+}
+
+/*--------------Header-------------------*/
+.header{
+    background-image: linear-gradient(to right, #672280, #A626D3) ;
+    color: white;
+    display: flex;
+    align-items: center;
+    height: 65px;
+    padding: 11px 80px;
+}
+.header--title{
+    margin: 0px;
+    font-weight: bold;
+    margin-right: auto;
+    font-size: 1.25rem;
+}
+
+.header--text{
+    font-weight: 500;
+    font-size: 0.75rem;
+}
